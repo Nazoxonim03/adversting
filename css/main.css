@@ -1,0 +1,434 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+}
+body{
+    background-color: #e5e5e5;
+    margin: 0;
+    padding: 0 40px;
+}
+.blok{
+    height: 1069px;
+width: 1440px;
+background: linear-gradient(to right, #000 50%, #57B8FF 50%);
+}
+.blok1{
+    display: flex;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        color: #FAC422;
+    }
+
+
+    .dark{
+        background-color: black;
+        background-color: transparent;
+        border: none;
+    }
+    .dark * {
+        color: white !important;
+    }
+    
+    .img{
+        margin: 27px 181px 222px 60px;
+    }
+    .text{
+        padding: 38px 60px 233px 0;
+        color: white;
+    }
+    .text1{
+        padding: 38px 213px 233px 0;
+        color: white;
+    }
+    .img1{
+        margin: 33px 30px 227px 0;
+    }
+    .blok-button{
+        margin: 20px 60px 214px 0;
+        background-color: transparent;
+        border: 1px solid white;
+        padding: 16px 31px;
+        color: white;
+        cursor: pointer;
+    }
+    .blok-button:hover{
+        background-color: #000;
+        border: none;
+        }
+    .img3{
+        margin: 0 8px 14px 60px;
+    }
+    .text2{
+        padding: 17px 417px 24px 0;
+        color: #57B8FF;
+    }
+    .img4{
+        margin: 0 1px 45px 60px;
+    }
+    .button-text{
+        padding: 21px 34px;
+        margin: 0 20px 250px 60px;
+        background-color: #57B8FF;
+        color: white;
+        cursor: pointer;
+    }
+    .button-text:hover{
+        background-color: white;
+        color: black;
+    }
+    .text-blok1{
+        font-family: Orbitron;
+        font-size: 18px;
+        font-weight: 400;
+        padding: 0 105px 53px 60px;
+        color: #999999;
+    }
+    .blok1-text{
+        padding: 21px 269px 271px 0;
+        color: white;
+        cursor: pointer;
+    }
+    .blok1-text:hover{
+        color: #FAC422;
+    }
+    .img5{
+        margin: 0 60px 255px 0;
+    }
+    .blok2{
+        height: 542px;
+        width: 1440px;
+        background-color: #FDD04A;
+        margin: 0;
+        padding: 0 40px;
+    }
+    .text-blok2{
+        padding: 128px 533px 0 533px;
+        font-family: Orbitron;
+font-size: 48px;
+font-weight: 400;
+color: black;
+text-align: center;
+    }
+    .img6{
+        height: 7.999999523162842px;
+width: 288px;
+left: 2px;
+top: 2px;
+        margin: 0 545px 29px 580px;
+    }
+    .img-text{
+        font-family: Orbitron;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+color: #555;
+padding: 0 445px 41px 445px;
+}
+.blok3{
+    background-image: url(../images/backgraund.png);
+    height: 1072px;
+width: 1440px;
+margin: 0;
+padding: 0 40px;
+}
+.img7{
+  margin: 130px -40px 12px 599px;  
+}
+.text-1{
+    font-family: Orbitron;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+padding: 140px 508px 22px 0;
+color: #57B8FF;
+}
+.h-text{
+    font-family: Orbitron;
+font-size: 64px;
+font-weight: 400;
+line-height: 74px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+padding: 0 362px 39px 362px;
+}
+.p-text{
+    padding: 0 371px 60.58px 371px;
+    font-family: Orbitron;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+color: #dfdfdf;
+}
+.all-blok{
+    height: 212px;
+width: 642.45849609375px;
+left: 0px;
+top: 0px;
+border-radius: 20px;
+background-color:rgba(255, 255, 255, 0.15);
+margin: 0 35px 32px 60px;
+}
+.all-blok1{
+    height: 212px;
+width: 642.45849609375px;
+left: 0px;
+top: 0px;
+border-radius: 20px;
+background-color:rgba(255, 255, 255, 0.15);
+margin: 0 60px 32px 0;
+}
+.all-blok2{
+    height: 212px;
+width: 642.45849609375px;
+left: 0px;
+top: 0px;
+border-radius: 20px;
+background-color:rgba(255, 255, 255, 0.15);
+margin: 0 35px 130.42px 60px;
+}
+.all-blok3{
+    height: 212px;
+width: 642.45849609375px;
+left: 0px;
+top: 0px;
+border-radius: 20px;
+background-color:rgba(255, 255, 255, 0.15);
+margin: 0 60px 130.42px 0;
+}
+.point{
+    margin: 32px -30px 20px 50px;
+    height: 29px;
+width: 31.794021606445312px;
+}
+.all{
+    font-family: Orbitron;
+font-size: 32px;
+font-weight: 400;
+line-height: 42px;
+padding: 35px 189.67px 19px 0;
+color: #fff;
+}
+.got{
+    padding: 0 39.47px 32px 87.71px;
+    color: #dfdfdf;
+    font-family: Orbitron;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.blok4{
+    width: 1440px;
+    height: 680px;
+    margin: -5px 0 0 -40px;
+background-color: #000;
+}
+.img-1{
+margin: 124px 0 12px 60px;
+}
+.text-img{
+    font-family: Orbitron;
+font-size: 16px;
+font-weight: 400;
+color:#57B8FF;
+padding: 130px 585px 22px 0 ;
+}
+.text-img1{
+    font-family: Orbitron;
+font-size: 64px;
+font-weight: 400;
+color: #fff;
+padding: 0 144px 38px 60px;
+}
+.text-img2{
+    padding: 0 107px 54px 60px;
+    font-family: Orbitron;
+font-size: 20px;
+font-weight: 400;
+color: #dfdfdf;
+}
+.img8{
+    margin: 86px 60px 176px 0;
+}
+.i-img{
+margin: 211px 282px 290px -360px;
+z-index: 10px;
+}
+.blok11{
+    background-repeat: no-repeat;
+    background-image: url(../images/women.png), url(../images/group.png), url(../images/world.png);
+    background-position: left, center, right;
+    display: flex;
+    width: 1440px;
+    height: 732px;
+    margin: 0 0 0 -40px;
+    }
+    .end{
+        margin: 273px 352px 0 176px;
+        font-family: Orbitron;
+    }
+    .end1{
+        margin: 273px 352px 0 0;
+        font-family: Orbitron;
+    }
+    .end2{
+        margin: 273px 352px 0 0;
+        font-family: Orbitron;
+    }
+    .end-1{
+        height: 1124px;
+        width: 1440px;
+        margin: 0 0 0 -40px;
+        background-color: #000;
+    }
+    .img10{
+        margin: 75px 0 12px 60px;
+    }
+    .text-2{
+        padding: 81px 1137px 22px 0;
+        font-family: Orbitron;
+        font-size: 16px;
+        font-weight: 400;
+        color: #57B8FF;
+    }
+    .text-3{
+        padding: 0 504px 68px 60px;
+        font-family: Orbitron;
+font-size: 64px;
+font-weight: 400;
+color: white;
+    }
+    .end-img{
+        height: 510px;
+        width: 648px;
+        margin: -10px 24px 54px 60px;
+    }
+    .time{
+        font-family: Orbitron;
+font-size: 18px;
+font-weight: 400;
+color: #57B8FF;
+padding: 0 542px 28px 60px;
+    }
+    .group{
+        font-family: Orbitron;
+font-size: 36px;
+font-weight: 400;
+color: white;
+padding: 0 65px 87px 60px;
+    }
+    .end-img1{
+        height: 189px;
+width: 312px;
+margin: 0px 24px 30px 0;
+    }
+    .time1{
+        font-family: Orbitron;
+font-size: 16px;
+font-weight: 400;
+        color: #57B8FF;
+        padding: 0 220px 20px 0;
+    }
+   .group1{
+    font-family: Orbitron;
+font-size: 23px;
+font-weight: 400;
+color: #fff;
+padding: 0 55px 38px 0;
+    }
+    .blok-button1{
+        margin: 0px 60px 70px 0;
+        background-color: transparent;
+        border: 1px solid white;
+        padding: 16px 31px;
+        background-color: #57B8FF;
+        cursor: pointer;
+        border: none;
+    }
+    .blok-button1:hover{
+        background-color: #fff;
+        border: none;
+        color: #000;
+        }
+        .kuku{
+            width: 1440px;
+            height: 638px;
+            background-image: url(../images/IMAGE.svg);
+            margin-top: 2532px;
+        }
+        .kuku-text{
+            font-family: Orbitron;
+font-size: 72px;
+font-weight: 400;
+text-align: center;
+color: #141820;
+padding: 126px 347px 0 347px;
+        }
+        .kuku-img{
+            margin: 0 0363px 35px 647px;
+        }
+        .kuku-text1{
+            font-family: Orbitron;
+font-size: 17px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+color: #555;
+padding: 0 361px 3px 361px;
+        }
+        .kuku-text2{
+            font-family: Orbitron;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+color: #555;
+padding: 0 397px 50px 397px;
+        }
+        #email{
+            border: none;
+            margin: 0 0 135px 385px;
+            padding: 21px 266px 21px 13px ;
+            background-color: white;
+            color: #555;
+            font-family: Orbitron;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+        }
+        .kuku-button{
+            margin: 0 389px 135px 0;
+            padding: 21px 7px 21px 8px;
+            font-family: Orbitron;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+background-color: #57B8FF;
+border: none;
+cursor: pointer;
+        }
+        .kuku-button:hover{
+            background-color: white;
+            color: #000;
+        }
+
